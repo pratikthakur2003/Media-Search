@@ -8,5 +8,5 @@ Chrome Custom Tabs feature has also been implemented here in order to access the
 
 If you have any suggestions, feel free to share it.
 
-Media Share App Link : 
+Media Search App Link : 
 https://docs.google.com/uc?export=download&id=19ECWQFJ3LiNJaE_Ed18KX7MuSpeNP95F
