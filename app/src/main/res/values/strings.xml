@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media Search</string>
+    <string name="what_do_you_wanna_see">What do you wanna see?</string>
+    <string name="search">Search</string>
+</resources>
